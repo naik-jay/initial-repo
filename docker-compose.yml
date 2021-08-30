@@ -1,0 +1,15 @@
+version: 
+services:
+  server:
+    image: 
+    working_dir: /src
+    environment:
+      - 
+      - 
+      - 
+      - 
+    volumes:
+      - 
+    command:
+    ports:
+

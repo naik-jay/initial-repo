@@ -1,0 +1,11 @@
+
+.vscode
+.idea
+*.egg-info
+.mypy-cache
+.cache
+.git
+.gitignore
+docker-compose.*
+Dockerfile
+*.md

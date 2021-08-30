@@ -1,0 +1,24 @@
+# # config folders
+# /config/
+# /.vscode/
+# /.venv/
+
+# # Environments
+# *.env
+# settings.json
+
+# # Data
+# /data/
+
+# # dummy test files and random files
+# /thrash/
+
+# # python cache
+# **/__pycache__/*
+# !**/__pycache__/
+
+
+# # packages:
+# /build/
+# /dist/
+
