@@ -6,7 +6,7 @@ authors = ["jay naik <jay@bdlabs.ai>"]
 
 [tool.poetry.dependencies]
 python = "3.9.5"
-pathlib2 = "2.3.7"
+pathlib2 = "2.3.7.post1"
 numpy = "1.20.2"
 pandas = "1.2.5"
 python-dotenv = "0.17.0"

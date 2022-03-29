@@ -48,7 +48,7 @@ test = ["pytest (>=5.0.1)", "pytest-xdist", "hypothesis (>=3.58)"]
 
 [[package]]
 name = "pathlib2"
-version = "2.3.7"
+version = "2.3.7.post1"
 description = "Object-oriented filesystem paths"
 category = "main"
 optional = false
@@ -129,7 +129,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "3.9.5"
-content-hash = "cb6482ec739598d85870fc55aed0ee226ab23d1e2eb38c75021dd394c35e0099"
+content-hash = "982473ee59147ef19907b5d8f3396f4247b79d7139e7e50f473f6350984183e0"
 
 [metadata.files]
 certifi = [
@@ -191,8 +191,8 @@ pandas = [
     {file = "pandas-1.2.5.tar.gz", hash = "sha256:14abb8ea73fce8aebbb1fb44bec809163f1c55241bcc1db91c2c780e97265033"},
 ]
 pathlib2 = [
-    {file = "pathlib2-2.3.7-py2.py3-none-any.whl", hash = "sha256:aa175e519a843b93bdbbe894b512192480d22620800c6a162fd297a6644259ec"},
-    {file = "pathlib2-2.3.7.tar.gz", hash = "sha256:7a4329d67beff9a712e1d3ae147e4e3e108b0bfd284ffdea03a635126c76b3c0"},
+    {file = "pathlib2-2.3.7.post1-py2.py3-none-any.whl", hash = "sha256:5266a0fd000452f1b3467d782f079a4343c63aaa119221fbdc4e39577489ca5b"},
+    {file = "pathlib2-2.3.7.post1.tar.gz", hash = "sha256:9fe0edad898b83c0c3e199c842b27ed216645d2e177757b2dd67384d4113c641"},
 ]
 python-dateutil = [
     {file = "python-dateutil-2.8.2.tar.gz", hash = "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86"},
