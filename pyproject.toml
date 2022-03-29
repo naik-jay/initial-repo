@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "initial-repo"
+name = "initial_repo"
 version = "1.0.0"
 description = "DESRC_HERE"
 authors = ["jay naik <jay@bdlabs.ai>"]
